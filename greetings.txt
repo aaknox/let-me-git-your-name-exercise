@@ -1,0 +1,6 @@
+[DO NOT MODIFY ANTHING ABOVE THE LINE!]
+Hey, my name is Azhya. I love travelling.
+----------------------------------------------------
+[MODIFY HERE]
+[INSTRUCTIONS TO GROUP]
+* Please add your info to this file. Be sure to submit a pull request after you do your commit from the exercise. -AK
